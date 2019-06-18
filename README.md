@@ -18,3 +18,6 @@ cd Graduation-Planner
 npm install
 npm start
 ```
+
+## Project Link
+http://insomnihackuooregon.s3-website-us-west-2.amazonaws.com/
